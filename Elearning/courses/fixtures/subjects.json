@@ -1,0 +1,26 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 1,
+  "fields": {
+    "title": "Database Management Systems",
+    "slug": "database-management-systems"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 2,
+  "fields": {
+    "title": "Operating Systems",
+    "slug": "operating-systems"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 3,
+  "fields": {
+    "title": "Theory of Computations",
+    "slug": "theory-of-computations"
+  }
+}
+]
